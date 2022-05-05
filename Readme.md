@@ -1,6 +1,6 @@
 # <span style="color:orange">**Titanic_Survived Prediction**</span>
 
-![Wine Quality](tt.png)
+![Titanic](tt.png)
 
 ***
 
